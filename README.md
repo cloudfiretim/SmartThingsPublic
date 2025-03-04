@@ -9,7 +9,7 @@ Here are some links to help you get started coding right away:
 * [IDE & Simulator](http://ide.smartthings.com)
 * [Community Forums](http://community.smartthings.com)
 
-Follow us on the web:
+Follow smarthingsdev on the web:
 
 * Twitter: http://twitter.com/smartthingsdev
 * Facebook: http://facebook.com/smartthingsdevelopers
