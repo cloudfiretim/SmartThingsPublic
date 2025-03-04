@@ -1,6 +1,6 @@
 # SmartThings Public GitHub Repo
 
-An official list of SmartApps and Device Types from SmartThings.
+This is a copy of an official list of SmartApps and Device Types from SmartThings. It's purpose is to allow me to control my own SmartThings devices from a DiY homehub running HomeBridge.
 
 Here are some links to help you get started coding right away:
 
